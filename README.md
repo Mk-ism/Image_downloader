@@ -1,2 +1,2 @@
 # Image_downloader
-Downloades all image in a webpage.
+Helps to Download all images in a webpage.
